@@ -41,7 +41,10 @@ body {
 
 .turma-div-conteudo{
     width:35%;
+    font-size:20px 0;
 }
-    
+  .turma-titulo{
+ padding:20px 0;
+}  
 
   
