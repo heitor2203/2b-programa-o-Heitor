@@ -29,9 +29,12 @@ body {
 .turma{
    background-image: linear-gradient( #081767, #607538);
    color: rgb(255, 255, 255);
+   display:flex;
 }
 
-  .turma-imagem(
-     width: 25%;
+  .turma-imagem{
+    width: 25%;
+}
+    
 
-  )
+  
